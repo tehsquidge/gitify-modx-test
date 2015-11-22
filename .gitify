@@ -110,3 +110,5 @@ packages:
     modx.com:
         service_url: 'http://rest.modx.com/extras/'
         description: 'The official MODX transport facility for 3rd party components.'
+        packages:
+             - wayfinder
